@@ -1,0 +1,3 @@
+[submodule "lib/files/iam-ssh-cli"]
+	path = lib/files/iam-ssh-cli
+	url = git@github.com:boltopspro/iam-ssh-cli.git
